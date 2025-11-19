@@ -1,4 +1,4 @@
-VERSION 19/11/2025 8:41:23 μμ
+VERSION 19/11/2025 9:55:06 μμ
 FIG #C:\Users\Σπύρος\Desktop\018_inverter.MSK
 BB(2,-4,164,58)
 SIMU #2.00
@@ -184,12 +184,6 @@ TITLE 7 16  #Vss
 $0 1000 0 
 TITLE 18 -1  #pulse1
 $c 500 0 0.2000 0.2500 0.4520 0.5020 
-TITLE 23 24  #0 INV
-$v 1000 0 
-TITLE 46 24  #1 INV
-$v 1000 0 
-TITLE 89 24  #3 INV
-$v 1000 0 
-TITLE 155 25  #6 INV
+TITLE 23 24  #OUT
 $v 1000 0 
 FFIG C:\Users\Σπύρος\Desktop\018_inverter.MSK
